@@ -1,10 +1,10 @@
 +++
-title = "Introduction to {Symposium} on {Time} {Series} {Error} {Correction} {Methods} in {Political} {Science}"
+title = "Introduction to Symposium on Time Series Error Correction Methods in Political Science"
 date = "2016-01-01"
 authors = ["Janet M. Box-Steffensmeier", "Agnar Freyr Helgason"]
 publication_types = ["2"]
-publication = "Political Analysis, (24), 1, _pp. 1--2_, https://doi.org/https://doi.org/10.1093/pan/mpv033"
-publication_short = "Political Analysis, (24), 1, _pp. 1--2_, https://doi.org/https://doi.org/10.1093/pan/mpv033"
+publication = "Political Analysis, (24), 1, pp. 1--2, https://doi.org/https://doi.org/10.1093/pan/mpv033"
+publication_short = "Political Analysis, (24), 1, pp. 1--2, https://doi.org/https://doi.org/10.1093/pan/mpv033"
 abstract = ""
 abstract_short = ""
 image_preview = ""
