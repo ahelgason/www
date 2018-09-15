@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Agnar&#39;s Den</title>
+    <title>Academic on Agnar Freyr Helgason</title>
     <link>/tags/academic/</link>
-    <description>Recent content in Academic on Agnar&#39;s Den</description>
+    <description>Recent content in Academic on Agnar Freyr Helgason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -14,10 +14,10 @@
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>/2016/04/20/academic-the-website-designer-for-hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/2016/04/20/academic-the-website-designer-for-hugo/</guid>
       <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
 
 Key features:
