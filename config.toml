@@ -230,7 +230,7 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fab"
+    icon_pack = "fas"
     link = "mailto:afh@hi.is"
 
   [[params.social]]
