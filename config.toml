@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Agnar's Den Test"
+title = "Agnar Freyr Helgason"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -53,11 +53,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Your details.
   name = "Agnar Freyr Helgason"
@@ -68,7 +68,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Iceland", url = "https://english.hi.is/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "agnar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "afh@hi.is"
   address = "Oddi 231, University of Iceland, 101 Reykjavik"
   office_hours = ""
