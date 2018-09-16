@@ -23,12 +23,12 @@ weight = 5
   institution = "The Ohio State University"
   year = 2015
 
-#[[education.courses]]
+[[education.courses]]
   course = "MSc in Comparative Politics"
   institution = "The London School of Economics and Political Science"
   year = 2009
 
-#[[education.courses]]
+[[education.courses]]
   course = "BSc in Economics"
   institution = "University of Iceland"
   year = 2006
