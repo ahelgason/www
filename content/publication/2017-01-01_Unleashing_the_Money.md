@@ -1,5 +1,5 @@
 +++
-title = "Unleashing the "Money Machine": The Domestic Political Foundations of VAT Adoption"
+title = "Unleashing the Money Machine: The Domestic Political Foundations of VAT Adoption"
 date = "2017-01-01"
 authors = ["Agnar Freyr Helgason"]
 publication_types = ["2"]

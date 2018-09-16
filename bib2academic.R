@@ -62,6 +62,8 @@ bibtex_2academic <- function(bibfile,
       # Title and date
       title <- paste0(x[["title"]] %>%
                           str_remove_all(fixed("{")) %>%
+                          str_remove_all(fixed("\\")) %>%
+                          str_remove_all(fixed('"')) %>%
                           str_remove_all(fixed("}"))) 
       
       
