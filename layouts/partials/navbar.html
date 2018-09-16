@@ -18,22 +18,7 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar">
-
       <!-- Left Nav Bar -->
-            <ul class="network-icon" aria-hidden="true">
-        {{ range $.Site.Params.social }}
-        {{ $pack := or .icon_pack "fas" }}
-        {{ $pack_prefix := $pack }}
-        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-          {{ $pack_prefix = "fa" }}
-        {{ end }}
-        <li>
-          <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
-          </a>
-        </li>
-        {{ end }}
-      </ul>
 
       {{ $align_right := .Site.Params.menus.align_right | default true }}
       <ul class="navbar-nav {{ if $align_right }}ml-auto{{ else }}mr-auto{{ end }}">
@@ -102,6 +87,23 @@
             </li>
             {{ end }}
           </ul>
+        </li>
+        {{ end }}
+      </ul>
+
+      <link itemprop="url" href="{{ $.Site.BaseURL }}">
+
+      <ul class="network-icon" aria-hidden="true">
+        {{ range $.Site.Params.social }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+        {{ end }}
+        <li>
+          <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          </a>
         </li>
         {{ end }}
       </ul>

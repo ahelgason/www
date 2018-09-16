@@ -80,7 +80,7 @@ bibtex_2academic <- function(bibfile,
             fileConn, append = T)
       
       # Publication details: journal, volume, issue, page numbers and doi link
-      publication <- x[["journal"]]
+      publication <- paste0("*",x[["journal"]],"*")
       if (!is.na(x[["volume"]])) publication <- paste0(publication, 
                                                        ", (", x[["volume"]], ")")
       if (!is.na(x[["number"]])) publication <- paste0(publication,
@@ -142,4 +142,4 @@ out_fold   <- "/content/publication"
 
 bibtex_2academic(bibfile  = my_bibfile, 
                  outfold   = out_fold, 
-                 abstract  = FALSE)
+                 abstract  = FALSE,overwrite=TRUE)

@@ -65,7 +65,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Iceland", url = "https://english.hi.is/" } ]
+  #organizations = [ { name = "University of Iceland", url = "https://english.hi.is/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "agnar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -167,7 +167,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
 
   # Publication types.
