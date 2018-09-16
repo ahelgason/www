@@ -8,30 +8,30 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Comparative Politics",
-    "Political Economy",
-    "Redistribution and Taxation",
-    "Elections and Democracy",
-    "Quantitative Methodology"
-  ]
+#[interests]
+#  interests = [
+#    "Comparative Politics",
+#    "Political Economy",
+#    "Redistribution and Taxation",
+#    "Elections and Democracy",
+#    "Quantitative Methodology"
+#  ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Political Science"
-  institution = "The Ohio State University"
-  year = 2015
+#[[education.courses]]
+#  course = "PhD in Political Science"
+#  institution = "The Ohio State University"
+#  year = 2015
 
-[[education.courses]]
-  course = "MSc in Comparative Politics"
-  institution = "The London School of Economics and Political Science"
-  year = 2009
+#[[education.courses]]
+#  course = "MSc in Comparative Politics"
+#  institution = "The London School of Economics and Political Science"
+#  year = 2009
 
-[[education.courses]]
-  course = "BSc in Economics"
-  institution = "University of Iceland"
-  year = 2006
+#[[education.courses]]
+#  course = "BSc in Economics"
+#  institution = "University of Iceland"
+#  year = 2006
  
 +++
 
