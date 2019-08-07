@@ -18,8 +18,9 @@ weight = 60
 I teach or have taught the following courses:
 
 * University of Iceland:
-    - STJ201F: Practical Statistics (Master's level). Last taught in spring 2018.
-    - STJ204G: Introduction to Statistical and Research Methods. Last taught in spring 2018.
-    - STJ336G: Economic Approaches to Politics. Last taught in fall 2018.
+    - STJ108G: Research Methods in Political Science. Taught in Fall 2019
+    - STJ336G: Economic Approaches to Politics. Taught in Fall 2018 and 2019.
+    - STJ201F: Practical Statistics (Master's level). Taught in Spring 2018 and 2019.
+    - STJ204G: Introduction to Statistical and Research Methods. Taught in Spring 2018 and 2019.
 * The Ohio State University:
-    - PS4781: Data Analysis in Political Science I (Online). Last taught in summer 2015.
+    - PS4781: Data Analysis in Political Science I (Online). Taught over six terms, 2013-15.
