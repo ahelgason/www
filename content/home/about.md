@@ -37,7 +37,7 @@ weight = 5
 
 # Welcome
 
-I'm a postdoctoral fellow and adjunct lecturer in political science at the [University of Iceland](https://english.hi.is/school_of_social_sciences_departments/faculty_of_political_science/main_menu/home). I also serve on the steering committee for the [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes). I received a PhD in political science from [The Ohio State University](https://polisci.osu.edu/) in 2015. 
+I'm an assistant professor in political science at the [University of Iceland](https://english.hi.is/school_of_social_sciences_departments/faculty_of_political_science/main_menu/home). I also serve on the steering committee for the [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes). I received a PhD in political science from [The Ohio State University](https://polisci.osu.edu/) in 2015. 
 
 My research is at the intersection of comparative political economy and political behavior, with an emphasis on the politics of redistribution and taxation, on the one hand, and on the political consequences of economic context, on the other hand. 
 
